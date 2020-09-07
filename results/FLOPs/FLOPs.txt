@@ -1,0 +1,28 @@
+FLOP's for V1
+Model needs 869736 FLOPS | Config : S56, G1, C0.25
+Model needs 947590 FLOPS | Config : S56, G2, C0.25
+Model needs 994728 FLOPS | Config : S56, G3, C0.25
+Model needs 1030372 FLOPS | Config : S56, G4, C0.25
+Model needs 1226400 FLOPS | Config : S56, G8, C0.25
+
+Model needs 2988552 FLOPS | Config : S56, G1, C0.5
+Model needs 3101840 FLOPS | Config : S56, G2, C0.5
+Model needs 3148488 FLOPS | Config : S56, G3, C0.5
+Model needs 3177608 FLOPS | Config : S56, G4, C0.5
+Model needs 3566304 FLOPS | Config : S56, G8, C0.5
+
+Model needs 10981992 FLOPS | Config : S56, G1, C1
+Model needs 11032840 FLOPS | Config : S56, G2, C1
+Model needs 10933608 FLOPS | Config : S56, G3, C1
+Model needs 10822168 FLOPS | Config : S56, G4, C1
+Model needs 11584608 FLOPS | Config : S56, G8, C1
+
+FLOP's for V2
+Model needs 5869825 FLOPS | Config : S56, C0.5
+Model needs 28968828 FLOPS | Config : S56, C1
+
+FLOP's for MobileNet
+Model needs 1840004 FLOPS | Config : S56, MobileNet, C0.25
+Model needs 6416660 FLOPS | Config : S56, MobileNet, C0.5
+Model needs 23806004 FLOPS | Config : S56, MobileNet, C1
+

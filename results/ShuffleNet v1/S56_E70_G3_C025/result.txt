@@ -1,0 +1,210 @@
+Epoch: 1 (Complexity : 0.25)
+Train loss =  4.383, Train acc =  0.148,	Val loss =  6.947, Val acc =  0.036
+
+Epoch: 2 (Complexity : 0.25)
+Train loss =  4.027, Train acc =  0.172,	Val loss =  6.965, Val acc =  0.038
+
+Epoch: 3 (Complexity : 0.25)
+Train loss =  4.020, Train acc =  0.176,	Val loss =  7.166, Val acc =  0.035
+
+Epoch: 4 (Complexity : 0.25)
+Train loss =  4.025, Train acc =  0.178,	Val loss =  6.830, Val acc =  0.036
+
+Epoch: 5 (Complexity : 0.25)
+Train loss =  4.027, Train acc =  0.176,	Val loss =  6.878, Val acc =  0.045
+
+Epoch: 6 (Complexity : 0.25)
+Train loss =  4.023, Train acc =  0.177,	Val loss =  6.817, Val acc =  0.039
+
+Epoch: 7 (Complexity : 0.25)
+Train loss =  4.023, Train acc =  0.177,	Val loss =  6.908, Val acc =  0.027
+
+Epoch: 8 (Complexity : 0.25)
+Train loss =  4.032, Train acc =  0.171,	Val loss =  7.235, Val acc =  0.041
+
+Epoch: 9 (Complexity : 0.25)
+Train loss =  4.034, Train acc =  0.172,	Val loss =  6.855, Val acc =  0.048
+
+Epoch: 10 (Complexity : 0.25)
+Train loss =  4.026, Train acc =  0.175,	Val loss =  7.228, Val acc =  0.042
+
+Epoch: 11 (Complexity : 0.25)
+Train loss =  4.015, Train acc =  0.177,	Val loss =  6.705, Val acc =  0.055
+
+Epoch: 12 (Complexity : 0.25)
+Train loss =  4.027, Train acc =  0.174,	Val loss =  6.670, Val acc =  0.052
+
+Epoch: 13 (Complexity : 0.25)
+Train loss =  4.045, Train acc =  0.171,	Val loss =  6.845, Val acc =  0.047
+
+Epoch: 14 (Complexity : 0.25)
+Train loss =  4.415, Train acc =  0.140,	Val loss =  6.177, Val acc =  0.078
+
+Epoch: 15 (Complexity : 0.25)
+Train loss =  3.854, Train acc =  0.193,	Val loss =  6.354, Val acc =  0.073
+
+Epoch: 16 (Complexity : 0.25)
+Train loss =  3.604, Train acc =  0.229,	Val loss =  5.960, Val acc =  0.081
+
+Epoch: 17 (Complexity : 0.25)
+Train loss =  3.505, Train acc =  0.250,	Val loss =  5.989, Val acc =  0.083
+
+Epoch: 18 (Complexity : 0.25)
+Train loss =  3.451, Train acc =  0.266,	Val loss =  6.050, Val acc =  0.086
+
+Epoch: 19 (Complexity : 0.25)
+Train loss =  3.410, Train acc =  0.278,	Val loss =  6.063, Val acc =  0.088
+
+Epoch: 20 (Complexity : 0.25)
+Train loss =  3.387, Train acc =  0.284,	Val loss =  6.069, Val acc =  0.094
+
+Epoch: 21 (Complexity : 0.25)
+Train loss =  3.368, Train acc =  0.289,	Val loss =  6.002, Val acc =  0.094
+
+Epoch: 22 (Complexity : 0.25)
+Train loss =  3.360, Train acc =  0.294,	Val loss =  5.816, Val acc =  0.101
+
+Epoch: 23 (Complexity : 0.25)
+Train loss =  3.346, Train acc =  0.299,	Val loss =  5.894, Val acc =  0.097
+
+Epoch: 24 (Complexity : 0.25)
+Train loss =  3.331, Train acc =  0.304,	Val loss =  5.955, Val acc =  0.090
+
+Epoch: 25 (Complexity : 0.25)
+Train loss =  3.766, Train acc =  0.250,	Val loss =  5.172, Val acc =  0.119
+
+Epoch: 26 (Complexity : 0.25)
+Train loss =  3.471, Train acc =  0.288,	Val loss =  5.002, Val acc =  0.125
+
+Epoch: 27 (Complexity : 0.25)
+Train loss =  3.361, Train acc =  0.305,	Val loss =  4.989, Val acc =  0.129
+
+Epoch: 28 (Complexity : 0.25)
+Train loss =  3.289, Train acc =  0.315,	Val loss =  4.971, Val acc =  0.127
+
+Epoch: 29 (Complexity : 0.25)
+Train loss =  3.240, Train acc =  0.323,	Val loss =  5.041, Val acc =  0.124
+
+Epoch: 30 (Complexity : 0.25)
+Train loss =  3.196, Train acc =  0.330,	Val loss =  4.978, Val acc =  0.133
+
+Epoch: 31 (Complexity : 0.25)
+Train loss =  3.160, Train acc =  0.335,	Val loss =  4.988, Val acc =  0.126
+
+Epoch: 32 (Complexity : 0.25)
+Train loss =  3.130, Train acc =  0.339,	Val loss =  5.013, Val acc =  0.124
+
+Epoch: 33 (Complexity : 0.25)
+Train loss =  3.110, Train acc =  0.344,	Val loss =  4.998, Val acc =  0.126
+
+Epoch: 34 (Complexity : 0.25)
+Train loss =  3.557, Train acc =  0.287,	Val loss =  4.504, Val acc =  0.149
+
+Epoch: 35 (Complexity : 0.25)
+Train loss =  3.405, Train acc =  0.315,	Val loss =  4.454, Val acc =  0.145
+
+Epoch: 36 (Complexity : 0.25)
+Train loss =  3.364, Train acc =  0.322,	Val loss =  4.422, Val acc =  0.150
+
+Epoch: 37 (Complexity : 0.25)
+Train loss =  3.340, Train acc =  0.326,	Val loss =  4.453, Val acc =  0.149
+
+Epoch: 38 (Complexity : 0.25)
+Train loss =  3.318, Train acc =  0.330,	Val loss =  4.400, Val acc =  0.153
+
+Epoch: 39 (Complexity : 0.25)
+Train loss =  3.300, Train acc =  0.333,	Val loss =  4.404, Val acc =  0.151
+
+Epoch: 40 (Complexity : 0.25)
+Train loss =  3.288, Train acc =  0.335,	Val loss =  4.426, Val acc =  0.151
+
+Epoch: 41 (Complexity : 0.25)
+Train loss =  3.282, Train acc =  0.337,	Val loss =  4.445, Val acc =  0.148
+
+Epoch: 42 (Complexity : 0.25)
+Train loss =  3.751, Train acc =  0.252,	Val loss =  4.076, Val acc =  0.177
+
+Epoch: 43 (Complexity : 0.25)
+Train loss =  3.606, Train acc =  0.284,	Val loss =  4.015, Val acc =  0.189
+
+Epoch: 44 (Complexity : 0.25)
+Train loss =  3.581, Train acc =  0.291,	Val loss =  3.975, Val acc =  0.191
+
+Epoch: 45 (Complexity : 0.25)
+Train loss =  3.570, Train acc =  0.293,	Val loss =  3.969, Val acc =  0.194
+
+Epoch: 46 (Complexity : 0.25)
+Train loss =  3.566, Train acc =  0.294,	Val loss =  3.945, Val acc =  0.198
+
+Epoch: 47 (Complexity : 0.25)
+Train loss =  3.561, Train acc =  0.296,	Val loss =  3.942, Val acc =  0.197
+
+Epoch: 48 (Complexity : 0.25)
+Train loss =  3.561, Train acc =  0.295,	Val loss =  3.940, Val acc =  0.199
+
+Epoch: 49 (Complexity : 0.25)
+Train loss =  3.560, Train acc =  0.293,	Val loss =  3.922, Val acc =  0.200
+
+Epoch: 50 (Complexity : 0.25)
+Train loss =  3.560, Train acc =  0.296,	Val loss =  3.957, Val acc =  0.195
+
+Epoch: 51 (Complexity : 0.25)
+Train loss =  3.565, Train acc =  0.295,	Val loss =  3.948, Val acc =  0.199
+
+Epoch: 52 (Complexity : 0.25)
+Train loss =  4.013, Train acc =  0.202,	Val loss =  3.923, Val acc =  0.204
+
+Epoch: 53 (Complexity : 0.25)
+Train loss =  3.947, Train acc =  0.216,	Val loss =  3.858, Val acc =  0.219
+
+Epoch: 54 (Complexity : 0.25)
+Train loss =  3.904, Train acc =  0.227,	Val loss =  3.842, Val acc =  0.220
+
+Epoch: 55 (Complexity : 0.25)
+Train loss =  3.877, Train acc =  0.235,	Val loss =  3.834, Val acc =  0.225
+
+Epoch: 56 (Complexity : 0.25)
+Train loss =  3.860, Train acc =  0.239,	Val loss =  3.806, Val acc =  0.233
+
+Epoch: 57 (Complexity : 0.25)
+Train loss =  3.850, Train acc =  0.242,	Val loss =  3.873, Val acc =  0.224
+
+Epoch: 58 (Complexity : 0.25)
+Train loss =  3.842, Train acc =  0.243,	Val loss =  3.767, Val acc =  0.240
+
+Epoch: 59 (Complexity : 0.25)
+Train loss =  3.837, Train acc =  0.244,	Val loss =  3.774, Val acc =  0.240
+
+Epoch: 60 (Complexity : 0.25)
+Train loss =  3.831, Train acc =  0.245,	Val loss =  3.776, Val acc =  0.239
+
+Epoch: 61 (Complexity : 0.25)
+Train loss =  3.828, Train acc =  0.246,	Val loss =  3.777, Val acc =  0.236
+
+Epoch: 62 (Complexity : 0.25)
+Train loss =  3.828, Train acc =  0.245,	Val loss =  3.781, Val acc =  0.238
+
+Epoch: 63 (Complexity : 0.25)
+Train loss =  3.823, Train acc =  0.246,	Val loss =  3.731, Val acc =  0.244
+
+Epoch: 64 (Complexity : 0.25)
+Train loss =  3.823, Train acc =  0.247,	Val loss =  3.774, Val acc =  0.239
+
+Epoch: 65 (Complexity : 0.25)
+Train loss =  3.830, Train acc =  0.245,	Val loss =  3.809, Val acc =  0.236
+
+Epoch: 66 (Complexity : 0.25)
+Train loss =  3.833, Train acc =  0.243,	Val loss =  3.759, Val acc =  0.240
+
+Epoch: 67 (Complexity : 0.25)
+Train loss =  3.829, Train acc =  0.244,	Val loss =  3.735, Val acc =  0.245
+
+Epoch: 68 (Complexity : 0.25)
+Train loss =  3.833, Train acc =  0.242,	Val loss =  3.763, Val acc =  0.243
+
+Epoch: 69 (Complexity : 0.25)
+Train loss =  3.830, Train acc =  0.242,	Val loss =  3.768, Val acc =  0.242
+
+Epoch: 70 (Complexity : 0.25)
+Train loss =  3.830, Train acc =  0.244,	Val loss =  3.802, Val acc =  0.233
+

@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74ac8d87-4967-4e56-b16a-b3779b84818a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/FLOPs/FLOPs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/FLOPs/FLOPs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workspace/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/workspace/Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workspace/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/workspace/config.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DD2424_DL_DataScience$LoadData.coverage" NAME="LoadData Coverage Results" MODIFIED="1556721954714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_workspace" />
+    <SUITE FILE_PATH="coverage/DD2424_DL_DataScience$main.coverage" NAME="main Coverage Results" MODIFIED="1557527236546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DD2424_DL_DataScience" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/workspace/LoadData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1740">
+              <caret line="116" column="31" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/workspace/Model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="208" column="29" lean-forward="true" selection-start-line="208" selection-start-column="29" selection-end-line="208" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/workspace/Operations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="165" column="35" lean-forward="true" selection-start-line="165" selection-start-column="35" selection-end-line="165" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/workspace/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>n0144</find>
+      <find>03_</find>
+      <find>to_bytes</find>
+      <find>to_</find>
+      <find>groups</find>
+      <find>uint</find>
+      <find>config</find>
+      <find>reuse</find>
+      <find>shu</find>
+      <find>200</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/03_workspace/model.py" />
+        <option value="$PROJECT_DIR$/03_workspace/training.py" />
+        <option value="$PROJECT_DIR$/03_workspace/loadData.py" />
+        <option value="$PROJECT_DIR$/03_workspace/Model.py" />
+        <option value="$PROJECT_DIR$/03_workspace/main.py" />
+        <option value="$PROJECT_DIR$/03_workspace/LoadData.py" />
+        <option value="$PROJECT_DIR$/03_workspace/__init__.py" />
+        <option value="$PROJECT_DIR$/workspace/__init__.py" />
+        <option value="$PROJECT_DIR$/workspace/main.py" />
+        <option value="$PROJECT_DIR$/workspace/Train.py" />
+        <option value="$PROJECT_DIR$/workspace/Utils.py" />
+        <option value="$PROJECT_DIR$/workspace/Operations.py" />
+        <option value="$PROJECT_DIR$/workspace/LoadData.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/workspace/MobileNet.py" />
+        <option value="$PROJECT_DIR$/results/FLOPs/FLOPs.txt" />
+        <option value="$PROJECT_DIR$/workspace/config.py" />
+        <option value="$PROJECT_DIR$/workspace/Model.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DD2424_DL_DataScience" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DD2424_DL_DataScience" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DD2424_DL_DataScience" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DD2424_DL_DataScience" type="462c0819:PsiDirectoryNode" />
+              <item name="results" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results/ShuffleNet v1" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/04_datasets" />
+      <recent name="$PROJECT_DIR$/01_files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DD2424_DL_DataScience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74ac8d87-4967-4e56-b16a-b3779b84818a" name="Default Changelist" comment="" />
+      <created>1556633351741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556633351741</updated>
+      <workItem from="1556633352861" duration="11000" />
+      <workItem from="1556633380026" duration="8683000" />
+      <workItem from="1556720415327" duration="2618000" />
+      <workItem from="1556723848986" duration="170000" />
+      <workItem from="1556724116846" duration="2332000" />
+      <workItem from="1556726506189" duration="5748000" />
+      <workItem from="1556788981477" duration="11456000" />
+      <workItem from="1556802259858" duration="1115000" />
+      <workItem from="1556805629484" duration="44000" />
+      <workItem from="1556809451204" duration="6544000" />
+      <workItem from="1556835613560" duration="55000" />
+      <workItem from="1556878608111" duration="3795000" />
+      <workItem from="1556892641084" duration="1738000" />
+      <workItem from="1556964498277" duration="252000" />
+      <workItem from="1557063348723" duration="3900000" />
+      <workItem from="1557080318346" duration="4384000" />
+      <workItem from="1557142534315" duration="3500000" />
+      <workItem from="1557179781603" duration="38000" />
+      <workItem from="1557238507508" duration="582000" />
+      <workItem from="1557304861286" duration="6152000" />
+      <workItem from="1557316606294" duration="4448000" />
+      <workItem from="1557322748378" duration="287000" />
+      <workItem from="1557330909916" duration="608000" />
+      <workItem from="1557331824848" duration="2656000" />
+      <workItem from="1557406812982" duration="2946000" />
+      <workItem from="1557410419482" duration="647000" />
+      <workItem from="1557411099230" duration="2341000" />
+      <workItem from="1557414001369" duration="258000" />
+      <workItem from="1557417273937" duration="26000" />
+      <workItem from="1557418957320" duration="7422000" />
+      <workItem from="1557477386361" duration="779000" />
+      <workItem from="1557478180302" duration="9271000" />
+      <workItem from="1557488137774" duration="502000" />
+      <workItem from="1557488664058" duration="327000" />
+      <workItem from="1557489001931" duration="284000" />
+      <workItem from="1557489298068" duration="595000" />
+      <workItem from="1557489905998" duration="131000" />
+      <workItem from="1557490049132" duration="551000" />
+      <workItem from="1557490613207" duration="1103000" />
+      <workItem from="1557491729044" duration="366000" />
+      <workItem from="1557492106835" duration="6427000" />
+      <workItem from="1557502189197" duration="10817000" />
+      <workItem from="1557517949301" duration="1232000" />
+      <workItem from="1557526109007" duration="4041000" />
+      <workItem from="1557530252132" duration="36000" />
+      <workItem from="1557530305675" duration="3070000" />
+      <workItem from="1557533564740" duration="2449000" />
+      <workItem from="1557567507499" duration="8882000" />
+      <workItem from="1557613260750" duration="42000" />
+      <workItem from="1557618077673" duration="1932000" />
+      <workItem from="1557652043617" duration="15532000" />
+      <workItem from="1557796407644" duration="3555000" />
+      <workItem from="1557837278683" duration="8183000" />
+      <workItem from="1557864909724" duration="6110000" />
+      <workItem from="1558008660361" duration="138000" />
+      <workItem from="1558009040203" duration="109000" />
+      <workItem from="1558103883840" duration="7000" />
+      <workItem from="1558103901791" duration="71000" />
+      <workItem from="1558104393433" duration="338000" />
+      <workItem from="1558122552790" duration="3483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="175119000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49809885" visible="true" weight="0.26466382" />
+      <window_info id="Structure" order="1" sideWeight="0.50190115" side_tool="true" weight="0.25679544" />
+      <window_info id="Favorites" order="2" sideWeight="0.50190115" side_tool="true" weight="0.25679544" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299363" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5028612" side_tool="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3299363" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3299363" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DD2424_DL_DataScience$main.coverage" NAME="main Coverage Results" MODIFIED="1558123435210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/Cellar/python/3.7.2_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/tensorflow/python/framework/tensor_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_datasets/tiny-imagenet-200/training.tfrecords" />
+    <entry file="file://$PROJECT_DIR$/04_datasets/tiny-imagenet-200/class_encoder.npy" />
+    <entry file="file://$PROJECT_DIR$/04_datasets/tiny-imagenet-200/wnids.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_datasets/tiny-imagenet-200/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008480">
+          <caret line="67232" selection-start-line="67232" selection-end-line="67232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_datasets/tiny-imagenet-200/val/val_annotations.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training.tfrecords" />
+    <entry file="file://$PROJECT_DIR$/04_datasets/tiny-imagenet-200/train/n02795169/images/n02795169_426.JPEG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/Train.py" />
+    <entry file="file://$PROJECT_DIR$/results/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/S56_E10_G8/Validation.png" />
+    <entry file="file://$PROJECT_DIR$/results/S224_E20_G1/Validation.png" />
+    <entry file="file://$PROJECT_DIR$/results/S224_E20_G1/Training.png" />
+    <entry file="file://$PROJECT_DIR$/results/S224_E1_G1/result.txt" />
+    <entry file="file://$PROJECT_DIR$/workspace/Utils.py" />
+    <entry file="file://$PROJECT_DIR$/results/S224_E20_G1/result.txt" />
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E70_G3_C025/Performance.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E70_G3_C050/Performance.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E70_G4_C025/Performance.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S224_E35_G1_C025/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1164" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E60_G2_C025/Performance.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/S56_E50_G1_C025_v2/Performance.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E100_G1_C025/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8409" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E100_G1_C050/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4089" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E100_G1_C100/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4089" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E70_G4_C050/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2739" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E70_G4_C025/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2739" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E70_G4_C100/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2739" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E60_G8_C025/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E100_G8_C100/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4089" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E60_G8_C050/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/MobileNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E60_G2_C025/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E60_G2_C050/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2227" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E60_G2_C100/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/S56_E50_G1_C050_v2/_v2/Performance.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/S56_E50_G1_C100_v2/_v2/Performance.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/S56_E50_G1_C025_v2/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1839" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/S56_E50_G1_C050_v2/_v2/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1839" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E70_G3_C100/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2739" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E70_G3_C050/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2739" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ShuffleNet v1/S56_E70_G3_C025/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2739" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/S56_E50_G1_C100_v2/_v2/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1839" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/LoadData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" column="31" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/FLOPs/FLOPs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/Operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="165" column="35" lean-forward="true" selection-start-line="165" selection-start-column="35" selection-end-line="165" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="208" column="29" lean-forward="true" selection-start-line="208" selection-start-column="29" selection-end-line="208" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
