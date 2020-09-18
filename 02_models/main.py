@@ -1,9 +1,9 @@
 
 # Imports
 
-import workspace.LoadData as ld
-import workspace.Model as model
-from workspace.config import Config as config
+import LoadData as ld
+import Model as model
+from config import Config as config
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import os
@@ -15,7 +15,7 @@ tf.logging.set_verbosity(tf.logging.ERROR)
 def main():
 
     # Dataset path
-    datasetPath = os.path.join(os.getcwd(), '04_datasets', 'tiny-imagenet-200')
+    datasetPath = os.path.join(os.getcwd(), 'tiny-imagenet-200')
 
     # Folder for tfRecords
     TfRecordPath = os.path.join(datasetPath, 'TfRecords')

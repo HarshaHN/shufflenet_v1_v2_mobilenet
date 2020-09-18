@@ -5,7 +5,7 @@ import glob
 import re
 import tensorflow as tf
 import numpy as np
-from workspace.config import Config as config
+from config import Config as config
 import os
 
 

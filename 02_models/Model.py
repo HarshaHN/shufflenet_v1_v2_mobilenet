@@ -3,10 +3,10 @@
 
 import tensorflow as tf
 from tqdm import tqdm
-import workspace.Operations as op
-import workspace.LoadData as ld
-import workspace.MobileNet as MobileNet
-from workspace.config import Config as config
+import Operations as op
+import LoadData as ld
+import MobileNet as MobileNet
+from config import Config as config
 import os
 
 def summarise():

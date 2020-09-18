@@ -2,7 +2,7 @@
 # Imports
 
 import tensorflow as tf
-from workspace.config import Config as config
+from config import Config as config
 
 """
     Different functions for the ShuffleNet implementation
@@ -177,7 +177,3 @@ def ReduceLR(sess, ops, valAcc):
         average = (valAcc[-10] + valAcc[-9] + valAcc[-8] + valAcc[-7] + valAcc[-6]) / 5.0
         if valAcc[-1] < (average + 0.01):
             sess.run(ops['drop_eta'])
-
-
-
-

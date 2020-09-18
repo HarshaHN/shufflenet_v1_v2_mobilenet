@@ -1,8 +1,8 @@
 # Imports
 
 import tensorflow as tf
-import workspace.Operations as op
-from workspace.config import Config as config
+import Operations as op
+from config import Config as config
 
 
 # For imageSize = 56
